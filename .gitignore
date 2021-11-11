@@ -1,2 +1,3 @@
 **/__pycache__/
-saved_models/*.pth
+saved_models/*.pt
+.DS_Store
